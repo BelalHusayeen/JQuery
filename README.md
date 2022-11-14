@@ -1,2 +1,1 @@
-# JQuery
-Hide an Element
+https://belalhusayeen.github.io/JQuery/
