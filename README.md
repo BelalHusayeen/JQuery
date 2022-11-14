@@ -1,0 +1,2 @@
+# JQuery
+Hide an Element
